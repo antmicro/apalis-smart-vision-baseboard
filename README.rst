@@ -1,6 +1,6 @@
-======================================
+=============================
 Apalis Smart Vision Baseboard
-======================================
+=============================
 
 Copyright (c) 2020 `Antmicro <https://www.antmicro.com>`_
 
@@ -8,6 +8,7 @@ Copyright (c) 2020 `Antmicro <https://www.antmicro.com>`_
 
 Overview
 ========
+
 This repository contains open hardware design files for Antmicro’s Apalis Smart Vision Baseboard - a custom baseboard for the Toradex `Apalis family <https://www.toradex.com/computer-on-modules/apalis-arm-family>`_ of SoMs (Systems on Module). The board has a unified FFC connector exposing the MIPI CSI-2 interfaces of the Apalis modules. The FFC connector is electrically compatible with a range of image acquisition platforms developed by Antmicro.
 
 Repository structure
@@ -62,7 +63,7 @@ Most of the debug messages are provided through the serial console.
 The board is equipped with an FTDI chip providing the UART interface to the host PC.
 Refer to the schematic sheets for more details.
 The default debug UART channel is accessible through ``/dev/ttyUSB0`` (assuming that there are no other FTDI units connected to your PC).
-The default baudrate for serial debug connection is 115200 baud with an 8-bit transmission, 1 stop bit and with no flow control.
+The default baudrate for the serial debug connection is 115200 baud with an 8-bit transmission, 1 stop bit and with no flow control.
 
 License
 =======
