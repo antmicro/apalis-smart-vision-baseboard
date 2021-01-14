@@ -2,7 +2,7 @@
 Apalis Smart Vision Baseboard
 =============================
 
-Copyright (c) 2016-2020 `Antmicro <https://www.antmicro.com>`_
+Copyright (c) 2016-2021 `Antmicro <https://www.antmicro.com>`_
 
 .. image:: Images/apalis-baseboard.png
 
