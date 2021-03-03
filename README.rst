@@ -68,4 +68,4 @@ The default baudrate for the serial debug connection is 115200 baud with an 8-bi
 License
 =======
 
-`MIT <LICENSE>`_
+`Apache-2.0 <LICENSE>`_
